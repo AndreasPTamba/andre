@@ -35,7 +35,7 @@ void quicksort(int arr[], int low, int high) {
     }
 }
 
-// Kode driver untuk menguji algoritma quicksort
+// Kode driver untuk menguji algoritma quicksort yoi
 int main() {
     int arr[] = {10, 7, 8, 9, 1, 5}; // Inisialisasi array yang akan diurutkan
     int n = sizeof(arr) / sizeof(arr[0]); // Dapatkan ukuran array

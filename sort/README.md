@@ -1,0 +1,1 @@
+Penugasan menghitung kompleksitas waktu dari algoritma sorting, akan diberikan beberapa versi dari sorting. bahasa C, Python dan psudocode. Penghitungan kompleksitas akan berada pada file txt yakni pseudocode
